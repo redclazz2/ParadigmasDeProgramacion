@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Desktop\Paradigmas De Programacion\LabPOO\LabPOO\bin\Debug\net5.0\LabPOO.exe
+C:\Users\USUARIO\Desktop\Paradigmas De Programacion\LabPOO\LabPOO\bin\Debug\net5.0\LabPOO.deps.json
+C:\Users\USUARIO\Desktop\Paradigmas De Programacion\LabPOO\LabPOO\bin\Debug\net5.0\LabPOO.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Paradigmas De Programacion\LabPOO\LabPOO\bin\Debug\net5.0\LabPOO.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\Paradigmas De Programacion\LabPOO\LabPOO\bin\Debug\net5.0\LabPOO.dll
+C:\Users\USUARIO\Desktop\Paradigmas De Programacion\LabPOO\LabPOO\bin\Debug\net5.0\ref\LabPOO.dll
+C:\Users\USUARIO\Desktop\Paradigmas De Programacion\LabPOO\LabPOO\bin\Debug\net5.0\LabPOO.pdb
+C:\Users\USUARIO\Desktop\Paradigmas De Programacion\LabPOO\LabPOO\obj\Debug\net5.0\LabPOO.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Paradigmas De Programacion\LabPOO\LabPOO\obj\Debug\net5.0\LabPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Paradigmas De Programacion\LabPOO\LabPOO\obj\Debug\net5.0\LabPOO.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Paradigmas De Programacion\LabPOO\LabPOO\obj\Debug\net5.0\LabPOO.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Paradigmas De Programacion\LabPOO\LabPOO\obj\Debug\net5.0\LabPOO.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Paradigmas De Programacion\LabPOO\LabPOO\obj\Debug\net5.0\LabPOO.dll
+C:\Users\USUARIO\Desktop\Paradigmas De Programacion\LabPOO\LabPOO\obj\Debug\net5.0\ref\LabPOO.dll
+C:\Users\USUARIO\Desktop\Paradigmas De Programacion\LabPOO\LabPOO\obj\Debug\net5.0\LabPOO.pdb
+C:\Users\USUARIO\Desktop\Paradigmas De Programacion\LabPOO\LabPOO\obj\Debug\net5.0\LabPOO.genruntimeconfig.cache

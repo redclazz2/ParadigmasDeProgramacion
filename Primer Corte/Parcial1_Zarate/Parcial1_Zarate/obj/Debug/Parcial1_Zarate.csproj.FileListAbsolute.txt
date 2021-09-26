@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Desktop\ParcialParadigmas\Parcial1_Zarate\Parcial1_Zarate\bin\Debug\Parcial1_Zarate.exe.config
+C:\Users\USUARIO\Desktop\ParcialParadigmas\Parcial1_Zarate\Parcial1_Zarate\bin\Debug\Parcial1_Zarate.exe
+C:\Users\USUARIO\Desktop\ParcialParadigmas\Parcial1_Zarate\Parcial1_Zarate\bin\Debug\Parcial1_Zarate.pdb
+C:\Users\USUARIO\Desktop\ParcialParadigmas\Parcial1_Zarate\Parcial1_Zarate\obj\Debug\Parcial1_Zarate.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\ParcialParadigmas\Parcial1_Zarate\Parcial1_Zarate\obj\Debug\Parcial1_Zarate.Form1.resources
+C:\Users\USUARIO\Desktop\ParcialParadigmas\Parcial1_Zarate\Parcial1_Zarate\obj\Debug\Parcial1_Zarate.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\ParcialParadigmas\Parcial1_Zarate\Parcial1_Zarate\obj\Debug\Parcial1_Zarate.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\ParcialParadigmas\Parcial1_Zarate\Parcial1_Zarate\obj\Debug\Parcial1_Zarate.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ParcialParadigmas\Parcial1_Zarate\Parcial1_Zarate\obj\Debug\Parcial1_Zarate.exe
+C:\Users\USUARIO\Desktop\ParcialParadigmas\Parcial1_Zarate\Parcial1_Zarate\obj\Debug\Parcial1_Zarate.pdb
+C:\Users\USUARIO\Desktop\ParcialParadigmas\Parcial1_Zarate\Parcial1_Zarate\obj\Debug\Parcial1_Zarate.Form2.resources
+C:\Users\USUARIO\Desktop\ParcialParadigmas\Parcial1_Zarate\Parcial1_Zarate\obj\Debug\Parcial1_Zarate.Form3.resources
